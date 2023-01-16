@@ -238,8 +238,8 @@ require_once("Rest.inc.php");
 			    'ads'=> array (
 			        'id' => '1',
 			        'ad_status' => 'on',
-			        'ad_type' => 'startapp',
-			        'backup_ads' => 'none',
+			        'ad_type' => 'unity',
+			        'backup_ads' => 'startapp',
 			        'admob_publisher_id' => 'pub-6858304905719677',
 			        'admob_app_id' => 'ca-app-pub-3940256099942544~3347511713',
 			        'admob_banner_unit_id' => 'ca-app-pub-6858304905719677/8946446605',
@@ -250,9 +250,9 @@ require_once("Rest.inc.php");
 			        'fan_interstitial_unit_id' => '816848046188888_816850776188615',
 			        'fan_native_unit_id' => '816848046188888_816850862855273',
 			        'startapp_app_id' => '207019002',
-			        'unity_game_id' => '4423290',
-			        'unity_banner_placement_id' => 'anime_ads_banner',
-			        'unity_interstitial_placement_id' => 'anime_ads',
+			        'unity_game_id' => '5123271',
+			        'unity_banner_placement_id' => 'Banner_Android',
+			        'unity_interstitial_placement_id' => 'Interstitial_Android',
 			        'applovin_banner_ad_unit_id' => '0',
 			        'applovin_interstitial_ad_unit_id' => '0',
 			        'applovin_native_ad_manual_unit_id' => '0',
@@ -282,7 +282,7 @@ require_once("Rest.inc.php");
 			        'interstitial_ad_on_wallpaper_detail' => '1',
 			        'native_ad_on_wallpaper_list' => '1',
 			        'native_ad_on_exit_dialog' => '1',
-			        'app_open_ad' => '0',
+			        'app_open_ad' => '1',
 			        'last_update_ads_status' => '2022-10-10 12:29:13'
 			    )
 			);
@@ -328,8 +328,8 @@ require_once("Rest.inc.php");
 			    'ads' => array(
 			        'id' => '1',
 			        'ad_status' => 'on',
-			        'ad_type' => 'startapp',
-			        'backup_ads' => 'none',
+			        'ad_type' => 'unity',
+			        'backup_ads' => 'startapp',
 			        'admob_publisher_id' => 'pub-6858304905719677',
 			        'admob_app_id' => 'ca-app-pub-3940256099942544~3347511713',
 			        'admob_banner_unit_id' => 'ca-app-pub-6858304905719677/8946446605',
@@ -340,9 +340,9 @@ require_once("Rest.inc.php");
 			        'fan_interstitial_unit_id' => '816848046188888_816850776188615',
 			        'fan_native_unit_id' => '816848046188888_816850862855273',
 			        'startapp_app_id' => '207019002',
-			        'unity_game_id' => '4423290',
-			        'unity_banner_placement_id' => 'anime_ads_banner',
-			        'unity_interstitial_placement_id' => 'anime_ads',
+			        'unity_game_id' => '5123271',
+			        'unity_banner_placement_id' => 'Banner_Android',
+			        'unity_interstitial_placement_id' => 'Interstitial_Android',
 			        'applovin_banner_ad_unit_id' => '0',
 			        'applovin_interstitial_ad_unit_id' => '0',
 			        'applovin_native_ad_manual_unit_id' => '0',
@@ -372,7 +372,7 @@ require_once("Rest.inc.php");
 			        'interstitial_ad_on_wallpaper_detail' => '1',
 			        'native_ad_on_wallpaper_list' => '1',
 			        'native_ad_on_exit_dialog' => '1',
-			        'app_open_ad' => '0',
+			        'app_open_ad' => '1',
 			        'last_update_ads_status' => '2022-10-10 12:29:13'
 			    )
 			);
